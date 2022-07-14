@@ -4,9 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
+    "build": "nuxt build && nuxt generate",
+    "start": "nuxt start"
   },
   "dependencies": {
     "@tailwindcss/forms": "^0.3.4",
