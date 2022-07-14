@@ -56,7 +56,7 @@ cd nuxtjs-tailwindcss-portfolio
 yarn
 ```
 
-4. NOTA: Se você não tiver fios instalados, você pode instalá-los globalmente usando npm:
+4. NOTA: Se você não tiver Yarn instalados, você pode instalá-lo globalmente usando npm:
 
 ```
 npm install --global yarn
