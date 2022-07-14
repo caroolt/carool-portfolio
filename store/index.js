@@ -2,7 +2,7 @@ import { v4 as uuidv4 } from "uuid";
 
 export const state = () => ({
   projectsHeading: "Portfólio de projetos",
-  projectsDescription: "Some of the projects I have successfully completed",
+  projectsDescription: "Alguns dos projetos que completei com sucesso",
   projects: [
     {
       id: "74a7911d-5bf1-454c-b8ee-e0fcaa8a0381",
@@ -111,7 +111,7 @@ export const state = () => ({
     },
     {
       id: uuidv4(),
-      bio: "Atualmente estou focada em minha carreira de desenvolvedora fullstack e como sempre AMEI compartilhar algumas coisas que estou aprender, publico artigos no Linkedin com algumas dicas e reflexões sobre o mundo da tecnologia.",
+      bio: "Atualmente estou focada em minha carreira de desenvolvedora fullstack e como sempre AMEI compartilhar algumas coisas que estou aprendendo, publico artigos no Linkedin com algumas dicas e reflexões sobre o mundo da tecnologia.",
     },
     {
       id: uuidv4(),

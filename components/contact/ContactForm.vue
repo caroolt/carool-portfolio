@@ -34,7 +34,7 @@ export default {
           mb-8
         "
       >
-        Form de Contato
+        Formulário de Contato
       </p>
       <form
         @submit="
