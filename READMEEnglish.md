@@ -2,7 +2,7 @@
 
 <h1 align="center">Portfolio</h1>
 
-![issues](https://img.shields.io/github/issues/caroolt/readmeExamples?color=red) ![license](https://img.shields.io/github/license/caroolt/readmeExamples)
+![issues](https://img.shields.io/github/issues/caroolt/carool-portfolio?color=red) ![license](https://img.shields.io/github/license/caroolt/carool-portfolio)
 
 <!-- Image that represents what the project does -->
 ![Image showing portfolio](./static/readme.png)
@@ -43,7 +43,7 @@ brew install node
 2. ##### Clone the repo:
 
 ```
-git clone https://github.com/caroolt/nuxtjs-tailwindcss-portfolio.git
+git clone https://github.com/caroolt/carool-portfolio.git
 ```
 
 3. ##### Open the project folder:
