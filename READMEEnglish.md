@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Portfoliot</h1>
+<h1 align="center">Portfolio</h1>
 
 ![issues](https://img.shields.io/github/issues/caroolt/readmeExamples?color=red) ![license](https://img.shields.io/github/license/caroolt/readmeExamples)
 
