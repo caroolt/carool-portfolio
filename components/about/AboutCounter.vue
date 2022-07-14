@@ -48,7 +48,7 @@ export default {
             dark:text-secondary-light
             mb-2
           "
-          >77</span
+          >22</span
         >
         <span class="block text-md text-ternary-dark dark:text-ternary-light"
           >Projetos concluídos</span
